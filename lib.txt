@@ -1,0 +1,14 @@
+1) pip install pillow
+(for PIL)
+2) for cv2:-
+	pip install opencv-python
+	pip install opencv-python-headless
+	
+3) cvzone:-
+	pip install cvzone
+
+4) deepsot:-
+	pip install deep_sort_realtime
+
+5) yolo
+	pip install ultralytics
